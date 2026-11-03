@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Standalone Phone-Only Mode (matching Android Studio's standalone Emulator window with a slim vertical hardware toolbar) and downloadable Windows (.bat) & macOS/Linux (.sh) Desktop Launchers that auto-start Flutter web-server or borderless Scrcpy in a phone-sized desktop window.",
+  "updatedAt":  "2026-10-22T05:58:46.434152159Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

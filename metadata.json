@@ -1,0 +1,6 @@
+{
+  "name": "DroidLite Studio",
+  "description": "Lightweight Android phone simulator, Flutter live debugger, and zero-lag ADB/Scrcpy hardware bridge for low-resource PCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
